@@ -1,0 +1,1 @@
+KUBE_CONTROLLER_MANAGER_ARGS="--master=http://192.168.18.3:8080 --logtostderr=false --log-dir=/var/log/kubernetes --v=2"
